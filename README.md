@@ -1,5 +1,5 @@
 # Sculptor STL - MÁRIO BROS
-Projeto final da disciplina de ITP
+Projeto final da disciplina de programação avançada
 
 ## Resultados:
 ![ResultadoFundoTOtal](https://i.imgur.com/PfHfcoV.png)
