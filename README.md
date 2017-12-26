@@ -18,3 +18,4 @@ gcc main.cpp Sculptor.cpp Hipermatriz.cpp Formas.cpp -o main
 ```
 ./main
 ```
+* Para visualizar o sculptor: [Meshlab](http://www.meshlab.net/)
